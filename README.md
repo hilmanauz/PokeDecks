@@ -23,7 +23,6 @@ Pada setiap cardnya juga akan terdapat sebuah button untuk melihat detail `Pokem
 <img width="800" src="./release0.png" alt="list">
 
 <br/>
-<br/>
 
 ## Release 1
 
@@ -31,9 +30,7 @@ Membuat halaman Detail pada setiap `Pokemon` dengan path `/pokemon/:id`. Halaman
 
 <img width="800" src="./release1-1.png" alt="list">
 <br/>
-<br/>
 <img width="800" src="./release1-2.png" alt="list">
-<br/>
 
 Pada halaman ini terdapat detail dari setiap pokemon seperti:
 - Biodata dari `Pokemon` tersebut.
@@ -42,15 +39,12 @@ Pada halaman ini terdapat detail dari setiap pokemon seperti:
 - Type dari `Pokemon` tersebut.
 - Skill dari `Pokemon` tersebut.
 
-<br/>
 <img width="800" src="./release1-3.png" alt="list">
 
 Pada halaman ini juga user dapat melihat detail pokemon di tahap siklus evolusi selain pokemon yang sedang dilihat
-<br/>
 
 <img width="800" src="./release1-4.png" alt="list">
 
-<br/>
 <br/>
 
 ## Release 2
@@ -60,11 +54,9 @@ Membuat search dengan fitur autocomplete yaitu ketika user ingin mencari `Pokemo
 <img width="800" src="./release2-1.png" alt="list">
 
 <br/>
-<br/>
 
 <img width="800" src="./release2-2.png" alt="list">
 
-<br/>
 <br/>
 
 ## Release 3
@@ -74,11 +66,9 @@ Membuat pagination agar list pokemon yang ditampilkan tidak terlalu panjang keba
 <img width="800" src="./release3-1.png" alt="list">
 
 <br/>
-<br/>
 
 <img width="800" src="./release3-2.png" alt="list">
 
-<br/>
 <br/>
 
 ## Release 4
@@ -88,11 +78,9 @@ Membuat aplikasi yang responsive dan reactive untuk web dan juga mobile
 <img width="800" src="./release4-1.png" alt="list">
 
 <br/>
-<br/>
 
 <img width="800" src="./release4-2.png" alt="list">
 
-<br/>
 <br/>
 
 <img width="800" src="./release4-3.png" alt="list">
